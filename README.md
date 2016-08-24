@@ -10,6 +10,8 @@ This list assumes that you have control over your codebase and leverage services
 
 # The list
 
+### Sentry
+
 ### Sendgrid
 
 ![Sendgrid, Transactional and marketing email](https://sendgrid.com/wp-content/themes/sgdotcom/grid/images/brand/sendgrid-logo.svg "Sendgrid, Transactional and marketing email")
@@ -22,19 +24,17 @@ Sendgrid is service for sending transactional and marketing email.
 
 ### KeenIO
 
-
-
 ### Algolia
 
 ### Stream
 
-
 ### Datadog
+
+### Newrelic
 
 ### Layer
 
 ### Stripe
-
 
 ### Mapbox
 
