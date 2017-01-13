@@ -37,7 +37,7 @@ A curated of the best SaaS services for developers to build modern, scalable app
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
 
-[Layer](https://layer.com] - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
+[Layer](https://layer.com) - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
 
 ## Search
 
