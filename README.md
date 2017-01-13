@@ -1,8 +1,6 @@
 # Awesome SaaS Services - Brought to You by GetStream.io
 
-Awesome SaaS Services is a curated of the best SaaS services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of SaaS solutions to keep our business up and running smoothly, and we've decided to share some of the services that we choose, in addition to other great SaaS services that may benefit you and your business. 
-
-We don't believe in vendor lock in, so we tend to lean toward services that allow us to move when necessary, as the business requires. Below is a comprehensive and growing list of services that we use at [Stream](https://getstream.io).
+Awesome SaaS Services is a curated list of the best SaaS services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of SaaS solutions to keep our business up and running smoothly, and we've decided to share some of the services that we use, in addition to other great SaaS services that may benefit your business. 
 
 As always, please feel free to make Pull Requests to add additional SaaS offerings that you feel may help the community.
 
@@ -14,13 +12,13 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
-## Email
+## Email Hosting
 
 [Google Apps (Drive, Docs, Sheets, and Gmail)](https://gsuite.google.com) - All you need to do your best work, together in one package that works seamlessly from your computer, phone or tablet.
 
 ## Sales
 
-[Hubspot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
+[HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
 
 [SalesforceIQ](https://www.salesforceiq.com/) - SalesforceIQ is an out-of-the-box sales app that gets your team up and running in minutes.
 
@@ -40,17 +38,17 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
-[Waffle](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
+[Waffle.io](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
 
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
 
-## Transactional Emails
+## Outgoing Email Services
 
-[Sendgrid](https://sendgrid.com/) - Email delivery and transactional email service.
+[SendGrid](https://sendgrid.com/) - Email delivery and transactional email service.
 
-[Mailchimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
+[MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
 [Mailgun](http://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
 receive and track email effortlessly.
