@@ -1,6 +1,6 @@
 # Awesome SaaS Services - Brought to You by GetStream.io
 
-Awesome SaaS Services is a curated of the best SaaS services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of SaaS solutions to keep our business up and running smoothly. 
+Awesome SaaS Services is a curated of the best SaaS services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of SaaS solutions to keep our business up and running smoothly, and we've decided to share some of the services that we choose, in addition to other great SaaS services that may benefit you and your business. 
 
 We don't believe in vendor lock in, so we tend to lean toward services that allow us to move when necessary, as the business requires. Below is a comprehensive and growing list of services that we use at [Stream](https://getstream.io).
 
@@ -9,6 +9,10 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 ## Infrastructure, Engineering & APIs
 
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
+
+[Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
+
+[GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
 ## Data, Analytics & Monitoring
 
@@ -43,9 +47,13 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [Layer](https://layer.com) - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
 
+[OneSignal](https://onesignal.com) - High volume, cross platform push notification delivery.
+
 ## Search
 
 [Algolia](https://algolia.com) - A hosted Search API that delivers instant and relevant results from the first keystroke.
+
+[Amazon Elasticsearch (AWS)](https://aws.amazon.com/elasticsearch-service) - Fully managed, reliable, and scalable Elasticsearch service.
 
 ## Mapping
 
