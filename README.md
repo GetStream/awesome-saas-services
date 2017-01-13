@@ -1,8 +1,8 @@
 # Awesome SaaS Services - Brought to You by GetStream.io
 
-Awesome SaaS Services is a curated list of the best SaaS services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of SaaS solutions to keep our business up and running smoothly, and we've decided to share some of the services that we use, in addition to other great SaaS services that may benefit your business. 
+Awesome SaaS Services is a curated list of the best in class services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of services to keep our business up and running smoothly, promote our content, etc., and we've decided to share some of the services that we use, in addition to other great SaaS platforms that may benefit your business.
 
-As always, please feel free to make Pull Requests to add additional SaaS offerings that you feel may help the community.
+As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
 ## Infrastructure, Engineering & APIs
 
