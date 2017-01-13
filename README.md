@@ -40,6 +40,8 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
+[Waffle](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
@@ -47,7 +49,11 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 ## Transactional Emails
 
 [Sendgrid](https://sendgrid.com/) - Email delivery and transactional email service.
+
 [Mailchimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
+
+[Mailgun](http://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
+receive and track email effortlessly.
 
 ## SMS & Messaging
 
@@ -79,3 +85,8 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [Gusto](https://gusto.com) - For HR people who do everything. One intuitive place to manage payroll, benefits, and HR for your business.
 
+## Chat & Support
+
+[Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
+
+[Desk](https://desk.com) - Customer support software that makes customers happy.
