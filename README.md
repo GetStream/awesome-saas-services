@@ -91,3 +91,29 @@ receive and track email effortlessly.
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
 [Desk](https://desk.com) - Customer support software that makes customers happy.
+
+## DNS
+
+[Amazon Web Services (AWS) Route 53](https://aws.amazon.com/route53/) - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications.
+
+[Cloudflare](https://cloudflare.com) - Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet. Our Anycast technology enables our benefits to scale with every server we add to our growing footprint of data centers.
+
+## Database Hosting
+
+[Compose](https://compose.com) - Backups, replication, complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
+
+## Design
+
+[Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
+
+## Social Media
+
+[Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
+
+[Crowdfire](https://crowdfireapp.com) - Crowdfire provides a dashboard for users to manage their Twitter, Linkedin and Instagram accounts on the fly.
+
+[ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
+
+
+
+
