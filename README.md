@@ -108,7 +108,7 @@ receive and track email effortlessly.
 
 ## Database Hosting
 
-[Compose](https://compose.com) - Backups, replication, complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
+[Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
 
 ## Design
 
