@@ -1,10 +1,6 @@
 # Awesome SaaS Services
 
-A curated of the best SaaS services for developers to build modern, scalable applications.
-
-# Vision
-
-Here at Stream, we use a number of SaaS solutions to keep our business up and running smoothly. We don't believe in vendor lock in, so we tend to lean towards services that allow us to move when necessary, as the business needs. Below is a comprehensive (and growing) list of services that we use at Stream. Please feel free to make Pull Requests to add additional SaaS offerings that you feel may help the community.
+A curated of the best SaaS services for developers to build modern, scalable applications. Here at Stream, we use a number of SaaS solutions to keep our business up and running smoothly. We don't believe in vendor lock in, so we tend to lean towards services that allow us to move when necessary, as the business needs. Below is a comprehensive (and growing) list of services that we use at Stream. Please feel free to make Pull Requests to add additional SaaS offerings that you feel may help the community.
 
 ## Infrastructure, Engineering & APIs
 
