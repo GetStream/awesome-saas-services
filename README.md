@@ -45,15 +45,15 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 ## Search
 
-[Algolia](https://algolia.com) - Build search that engages users from the first keystroke.
+[Algolia](https://algolia.com) - A hosted Search API that delivers instant and relevant results from the first keystroke.
 
 ## Mapping
 
-[Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, we're a platform that powers location and lets you build the experience in your app.
+[Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
 
 ## Payment Processing
 
-[Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+[Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
 
 
 
