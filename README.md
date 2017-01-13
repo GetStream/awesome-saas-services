@@ -14,6 +14,16 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
+## Email
+
+[Google Apps (Drive, Docs, Sheets, and Gmail)](https://gsuite.google.com) - All you need to do your best work, together in one package that works seamlessly from your computer, phone or tablet.
+
+## Sales
+
+[Hubspot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
+
+[SalesforceIQ](https://www.salesforceiq.com/) - SalesforceIQ is an out-of-the-box sales app that gets your team up and running in minutes.
+
 ## Data, Analytics & Monitoring
 
 [Sentry](https://sentry.io) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
