@@ -44,6 +44,9 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
 
+[Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
+An end-to-end solution for all your image-related needs.
+
 ## Outgoing Email Services
 
 [SendGrid](https://sendgrid.com/) - Email delivery and transactional email service.
