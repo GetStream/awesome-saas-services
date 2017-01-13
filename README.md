@@ -71,6 +71,8 @@ As always, please feel free to make Pull Requests to add additional SaaS offerin
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
 
+[Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
+
 ## Payroll
 
 [JustWorks](https://justworks.com) - Big or small, all teams deserve the best. JustWorks is leveling the playing field with seamless payroll, great and affordable benefits, and comprehensive compliance coverage, all in one cutting-edge product designed for you to work fearlessly.
