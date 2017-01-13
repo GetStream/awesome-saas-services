@@ -1,6 +1,6 @@
 # Awesome SaaS Services - Brought to You by GetStream.io
 
-Awesome SaaS Services is a curated list of the best in class services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of services to keep our business up and running smoothly, promote our content, etc., and we've decided to share some of the services that we use, in addition to other great SaaS platforms that may benefit your business.
+This is a curated list of the best in class services for developers to build modern, scalable applications. Here at [Stream](https://getstream.io), we use a number of services to keep our business up and running smoothly, promote our content, etc., and we've decided to share some of the services that we use, in addition to other great SaaS platforms that may benefit your business.
 
 As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
@@ -11,10 +11,6 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
-
-## Email Hosting
-
-[Google Apps (Drive, Docs, Sheets, and Gmail)](https://gsuite.google.com) - All you need to do your best work, together in one package that works seamlessly from your computer, phone or tablet.
 
 ## Sales
 
@@ -32,6 +28,13 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [KeenIO](https://keen.io) - With Keen’s developer-friendly APIs, it’s easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
 
+## Image Processing
+
+[ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
+
+[Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
+An end-to-end solution for all your image-related needs.
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
@@ -40,12 +43,17 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Waffle.io](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
 
-## Image Processing
+## SMS & Messaging
 
-[ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
+[Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
 
-[Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
-An end-to-end solution for all your image-related needs.
+[Layer](https://layer.com) - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
+
+[OneSignal](https://onesignal.com) - High volume, cross platform push notification delivery.
+
+## Email Hosting
+
+[Google Apps (Drive, Docs, Sheets, and Gmail)](https://gsuite.google.com) - All you need to do your best work, together in one package that works seamlessly from your computer, phone or tablet.
 
 ## Outgoing Email Services
 
@@ -56,23 +64,11 @@ An end-to-end solution for all your image-related needs.
 [Mailgun](http://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
 receive and track email effortlessly.
 
-## SMS & Messaging
-
-[Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
-
-[Layer](https://layer.com) - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
-
-[OneSignal](https://onesignal.com) - High volume, cross platform push notification delivery.
-
 ## Search
 
 [Algolia](https://algolia.com) - A hosted Search API that delivers instant and relevant results from the first keystroke.
 
 [Amazon Elasticsearch (AWS)](https://aws.amazon.com/elasticsearch-service) - Fully managed, reliable, and scalable Elasticsearch service.
-
-## Mapping
-
-[Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
 
 ## Payment Processing
 
@@ -86,11 +82,23 @@ receive and track email effortlessly.
 
 [Gusto](https://gusto.com) - For HR people who do everything. One intuitive place to manage payroll, benefits, and HR for your business.
 
+## Mapping
+
+[Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
+
 ## Chat & Support
 
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
 [Desk](https://desk.com) - Customer support software that makes customers happy.
+
+## Social Media
+
+[Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
+
+[Crowdfire](https://crowdfireapp.com) - Crowdfire provides a dashboard for users to manage their Twitter, Linkedin and Instagram accounts on the fly.
+
+[ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
 ## DNS
 
@@ -100,19 +108,11 @@ receive and track email effortlessly.
 
 ## Database Hosting
 
-[Compose](https://compose.com) - Backups, replication, complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
+[Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
 
 ## Design
 
 [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
-
-## Social Media
-
-[Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
-
-[Crowdfire](https://crowdfireapp.com) - Crowdfire provides a dashboard for users to manage their Twitter, Linkedin and Instagram accounts on the fly.
-
-[ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
 
 
