@@ -4,6 +4,10 @@ This is a curated list of the best in class services for developers to build mod
 
 As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
+## Companies to Watch in 2017
+
+* [Algolia](https://algolia.com)
+
 ## Infrastructure, Engineering & APIs
 
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
