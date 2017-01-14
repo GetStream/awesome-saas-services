@@ -25,6 +25,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
+[GitLab](https://gitlab.com) - Tools for modern developers. GitLab unifies issues, code review, CI and CD into a single UI.
+
 [Postman](https://getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
 ## Sales
@@ -91,8 +93,10 @@ An end-to-end solution for all your image-related needs.
 
 [MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
-[Mailgun](http://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
+[Mailgun](https://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
 receive and track email effortlessly.
+
+[Mandrill](https://mandrill.com) - Mandrill is a transactional email API for MailChimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.
 
 ## Search
 
