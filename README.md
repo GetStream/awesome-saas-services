@@ -7,6 +7,15 @@ As always, please feel free to make Pull Requests to add additional offerings th
 ## Companies to Watch in 2017
 
 * [Algolia](https://algolia.com)
+* [Stream](https://getstream.io)
+* [Pusher](https://pusher.com)
+* [Postman](https://getpostman.com)
+* [SendBird](https://sendbird.com)
+* [Auth0](https://auth0.com)
+* [Digits](https://get.digits.com)
+* [Crashlytics](https://try.crashlytics.com)
+* [MessageBird](https://www.messagebird.com)
+* [KeenIO](https://keen.io)
 
 ## Infrastructure, Engineering & APIs
 
@@ -15,6 +24,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
+
+[Postman](https://getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
 ## Sales
 
@@ -31,6 +42,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [New Relic](https://newrelic.com/?) - Monitor and optimize your entire technology stack — from your infrastructure and applications to browser and mobile apps.
 
 [KeenIO](https://keen.io) - With Keen’s developer-friendly APIs, it’s easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
+
+[Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
 ## Image Processing
 
@@ -51,9 +64,22 @@ An end-to-end solution for all your image-related needs.
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
 
+[SendBird](https://sendbird.com/) - Messaging SDK & chat API for mobile apps and websites. Enable in-app messaging for your mobile apps and websites using SendBird messaging SDK and chat API.
+
+[MessageBird](https://www.messagebird.com) - A messaging API that is packed with features and customizable parameters that enable high volume and demanding message senders to use the platform with ease.
+
 [Layer](https://layer.com) - The power of messaging for every mobile and web product. Everything you need, from UI to infrastructure, to boost retention, engagement or drive transactions with the power of rich messaging.
 
 [OneSignal](https://onesignal.com) - High volume, cross platform push notification delivery.
+
+[Pusher](https://pusher.com/) - Everything you need to build scalable realtime apps.
+
+## Authentication
+
+[Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
+
+[Digits](https://get.digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
+
 
 ## Email Hosting
 
