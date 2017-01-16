@@ -4,7 +4,7 @@ This is a curated list of the best in class services for developers to build mod
 
 As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
-## Our favorites for 2017
+## Our Favorites for 2017
 
 * [Algolia](https://algolia.com)
 * [Stream](https://getstream.io)
