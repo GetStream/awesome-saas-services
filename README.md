@@ -147,6 +147,8 @@ receive and track email effortlessly.
 
 [Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
 
+[Atlas](https://www.mongodb.com/cloud/atlas/lp/developers) - The only MongoDB as a Service offering available on Amazon Web Services (AWS) powered by the creators of the database.
+
 ## Design
 
 [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
