@@ -6,8 +6,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Our Favorites for 2017
 
+* [Stream](https://getstream.io) (Of course)
 * [Algolia](https://algolia.com)
-* [Stream](https://getstream.io)
 * [Pusher](https://pusher.com)
 * [Postman](https://getpostman.com)
 * [SendBird](https://sendbird.com)
