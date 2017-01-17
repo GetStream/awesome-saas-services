@@ -157,6 +157,11 @@ receive and track email effortlessly.
 
 [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
 
+## Machine Learning
 
+[IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 
+[Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
+
+[Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
