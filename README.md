@@ -169,6 +169,11 @@ receive and track email effortlessly.
 
 [Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
-## Content management systems
+
+## Customer Data Management
+
+[Hull](https://www.hull.io/) - Powerful customer data platform to combine, cleanse, enrich, and sync any customer data across all your tools in real-time.
+
+## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
