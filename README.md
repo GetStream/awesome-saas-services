@@ -62,6 +62,8 @@ An end-to-end solution for all your image-related needs.
 
 [Waffle.io](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
 
+[Taskade](https://taskade.com/) - Taskade is a cross-platform collaboration tool for teams. Create team checklists, notes, and outlines, and chat together in real-time.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
@@ -133,6 +135,8 @@ receive and track email effortlessly.
 
 [Desk](https://desk.com) - Customer support software that makes customers happy.
 
+[Jitbit](https://www.jitbit.com) - Neat and affordable customer service app (email, live chat, mobile apps etc.)
+
 ## Social Media
 
 [Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
@@ -165,6 +169,11 @@ receive and track email effortlessly.
 
 [Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
+
 ## Customer Data Management
 
 [Hull](https://www.hull.io/) - Powerful customer data platform to combine, cleanse, enrich, and sync any customer data across all your tools in real-time.
+
+## Content Management Systems
+
+[Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
