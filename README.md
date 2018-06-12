@@ -21,6 +21,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
 
+[Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
+
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
