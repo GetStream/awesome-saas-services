@@ -82,6 +82,8 @@ An end-to-end solution for all your image-related needs.
 
 [Applozic](https://www.applozic.com/) - Chat API & In-App Messaging SDK for Mobile & Web Apps. Innovate fast, save development cost and delight users with a scalable, secure and customizable Chat.
 
+[Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
+
 ## Authentication
 
 [Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
