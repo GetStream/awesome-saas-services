@@ -141,6 +141,8 @@ receive and track email effortlessly.
 
 [Jitbit](https://www.jitbit.com) - Neat and affordable customer service app (email, live chat, mobile apps etc.)
 
+[Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
+
 ## Social Media
 
 [Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
