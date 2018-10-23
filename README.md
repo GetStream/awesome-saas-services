@@ -66,6 +66,8 @@ An end-to-end solution for all your image-related needs.
 
 [Taskade](https://taskade.com/) - Taskade is a cross-platform collaboration tool for teams. Create team checklists, notes, and outlines, and chat together in real-time.
 
+[Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
