@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
+[Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
