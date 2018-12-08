@@ -19,6 +19,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Infrastructure, Engineering & APIs
 
+[ProxyCrawl](https://proxycrawl.com) - Bypass captchas and blocks, and crawl javascript pages with a simple to use API service.
+
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
 
 [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
