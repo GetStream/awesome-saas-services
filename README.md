@@ -19,6 +19,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Infrastructure, Engineering & APIs
 
+[Dataflow kit](https://dataflowkit.com) - Turn websites into structured data with a simple point-and-click toolkit. Dataflow Kit is Web scraping open source framework written in Go. DFK platform provides easy and comfortable way to extract data from web pages.
+
 [ProxyCrawl](https://proxycrawl.com) - Bypass captchas and blocks, and crawl javascript pages with a simple to use API service.
 
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
