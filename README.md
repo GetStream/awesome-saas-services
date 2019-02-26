@@ -76,6 +76,8 @@ An end-to-end solution for all your image-related needs.
 
 [Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
 
+[Metatask](https://metatask.io/) - Metatask automates management of repeating business workflows, admin work, HR processes. A simple and flexible workflow management app.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
