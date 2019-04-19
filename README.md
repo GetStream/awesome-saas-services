@@ -76,6 +76,8 @@ An end-to-end solution for all your image-related needs.
 
 [Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
 
+[Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
