@@ -35,6 +35,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Postman](https://getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
+[DeveloperHub.io](https://developerhub.io) - Managed service to create beautiful powerful developer hubs. Build your product and API documentation. Upload your OpenAPI spec to get entire auto-generated API references.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
