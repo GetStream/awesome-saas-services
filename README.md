@@ -66,6 +66,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
 An end-to-end solution for all your image-related needs.
 
+[ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
