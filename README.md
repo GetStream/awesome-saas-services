@@ -80,6 +80,10 @@ An end-to-end solution for all your image-related needs.
 
 [Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
 
+[Tefter](https://tefter.io) - Tefter is a bookmarking app for
+individuals and teams. There is a Slack integration to collaborate
+with your team. Tefter is free for open source teams.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
