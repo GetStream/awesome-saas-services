@@ -19,6 +19,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Infrastructure, Engineering & APIs
 
+[Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
+
 [Dataflow kit](https://dataflowkit.com) - Turn websites into structured data with a simple point-and-click toolkit. Dataflow Kit is Web scraping open source framework written in Go. DFK platform provides easy and comfortable way to extract data from web pages.
 
 [ProxyCrawl](https://proxycrawl.com) - Bypass captchas and blocks, and crawl javascript pages with a simple to use API service.
@@ -35,6 +37,10 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Postman](https://getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
+[DeveloperHub.io](https://developerhub.io) - Managed service to create beautiful powerful developer hubs. Build your product and API documentation. Upload your OpenAPI spec to get entire auto-generated API references.
+
+[SerpApi](https://serpapi.com) - API to scrape and extract search engine results. Including advanced data structures like knoweledge graph, reviews, and maps. Works with Google, Baidu, and Bing.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
@@ -44,6 +50,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
 ## Data, Analytics & Monitoring
+
+[AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
 
 [Sentry](https://sentry.io) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 
@@ -64,6 +72,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
 An end-to-end solution for all your image-related needs.
 
+[ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
@@ -77,6 +87,10 @@ An end-to-end solution for all your image-related needs.
 [Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
 
 [Metatask](https://metatask.io/) - Metatask automates management of repeating business workflows, admin work, HR processes. A simple and flexible workflow management app.
+
+[Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
+
+[Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
 ## SMS & Messaging
 
@@ -146,6 +160,8 @@ receive and track email effortlessly.
 [Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
 
 ## Chat & Support
+
+[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
 
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
