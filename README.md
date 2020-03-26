@@ -39,6 +39,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [DeveloperHub.io](https://developerhub.io) - Managed service to create beautiful powerful developer hubs. Build your product and API documentation. Upload your OpenAPI spec to get entire auto-generated API references.
 
+[SerpApi](https://serpapi.com) - API to scrape and extract search engine results. Including advanced data structures like knoweledge graph, reviews, and maps. Works with Google, Baidu, and Bing.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
