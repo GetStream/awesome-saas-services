@@ -86,11 +86,11 @@ An end-to-end solution for all your image-related needs.
 
 [Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
 
+[Metatask](https://metatask.io/) - Metatask automates management of repeating business workflows, admin work, HR processes. A simple and flexible workflow management app.
+
 [Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
 
-[Tefter](https://tefter.io) - Tefter is a bookmarking app for
-individuals and teams. There is a Slack integration to collaborate
-with your team. Tefter is free for open source teams.
+[Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
 ## SMS & Messaging
 
@@ -160,6 +160,8 @@ receive and track email effortlessly.
 [Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
 
 ## Chat & Support
+
+[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
 
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
