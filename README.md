@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Data, Analytics & Monitoring
 
+[AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
+
 [Sentry](https://sentry.io) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 
 [Datadog](https://datadoghq.com) - Real-time performance monitoring. See granular metrics from your entire stack, from application-level to your actual hosts and VMs.
