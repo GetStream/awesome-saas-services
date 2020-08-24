@@ -197,6 +197,10 @@ receive and track email effortlessly.
 
 [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
 
+## Security
+
+[Virushee](https://virushee.com/) - Privacy-oriented, file/data scanning service utilizing hybrid heuristic and AI-assisted engine.
+
 ## Machine Learning
 
 [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
