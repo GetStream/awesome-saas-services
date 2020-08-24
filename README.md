@@ -80,8 +80,6 @@ An end-to-end solution for all your image-related needs.
 
 [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
-[Waffle.io](https://waffle.io/) - Smart and simple project management. Waffle is a free project management solution powered by your GitHub issues & pull requests.
-
 [Taskade](https://taskade.com/) - Taskade is a cross-platform collaboration tool for teams. Create team checklists, notes, and outlines, and chat together in real-time.
 
 [Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
@@ -190,8 +188,6 @@ receive and track email effortlessly.
 ## Database Hosting
 
 [Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
-
-[Atlas](https://www.mongodb.com/cloud/atlas/lp/developers) - The only MongoDB as a Service offering available on Amazon Web Services (AWS) powered by the creators of the database.
 
 ## Design
 
