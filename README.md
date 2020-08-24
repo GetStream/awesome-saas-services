@@ -4,7 +4,7 @@ This is a curated list of the best in class SaaS services for developers and bus
 
 As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
-## Our Favorites for 2017
+## Our Favorites for 2020
 
 * [Stream](https://getstream.io) (Of course)
 * [Algolia](https://algolia.com)
