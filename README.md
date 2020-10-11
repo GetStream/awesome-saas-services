@@ -161,15 +161,17 @@ receive and track email effortlessly.
 
 ## Chat & Support
 
-[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
-
-[Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
+[Beamdock](https://beamdock.com) - Beamdock helps you gather features requests, schedule interview session with users and notify customers about feature rollouts. Beamdock has a free plan for Startups looking to gather meaningful feedback from their users.
 
 [Desk](https://desk.com) - Customer support software that makes customers happy.
+
+[Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
 [Jitbit](https://www.jitbit.com) - Neat and affordable customer service app (email, live chat, mobile apps etc.)
 
 [Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
+
+[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
 
 ## Social Media
 
