@@ -41,6 +41,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [SerpApi](https://serpapi.com) - API to scrape and extract search engine results. Including advanced data structures like knoweledge graph, reviews, and maps. Works with Google, Baidu, and Bing.
 
+[OpenAPI Definition Designer](https://openapidesigner.com) - Easily create OpenAPI 3 definitions in a Json format in our visual designer for free.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
