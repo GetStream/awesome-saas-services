@@ -114,6 +114,8 @@ An end-to-end solution for all your image-related needs.
 
 [Digits](https://get.digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
 
+[MojoAuth](https://mojoauth.com/) - MojoAuth is the easiest & quickest way to add passwordless authentication to your websites.
+
 ## Content Delivery Networks (CDNs)
 
 [Section.io](https://section.io) - Faster websites. More security and scalability. The features you look for in a Content Delivery Network, in one, easy-to-use tool built for agile teams.
