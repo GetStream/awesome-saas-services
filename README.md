@@ -27,6 +27,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Stream](https://getstream.io) - Don't re-invent the wheel feed; grow without worrying about the scalability, reliability and maintenance of your feeds. Save months of development headache and focus on what makes your app unique.
 
+[Hook0](https://www.hook0.com/) - Hook0 is an Open-Source Webhooks-as-a-service (WaaS) that makes it easy for developers to send webhooks. Developers make one API call, and Hook0 takes care of deliverability, retries, security, and more.
+
 [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
 
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
