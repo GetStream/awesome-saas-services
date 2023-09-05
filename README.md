@@ -80,6 +80,8 @@ An end-to-end solution for all your image-related needs.
 
 [ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
 
+[Image-Charts](https://www.image-charts.com/) - Automagically create and send emails, reports, PDFs and more with on-brand charts as images using our API and integrations with Zapier and Make.
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
