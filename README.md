@@ -118,6 +118,8 @@ An end-to-end solution for all your image-related needs.
 
 [Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
 
+[Cloud-IAM](https://www.cloud-iam.com/) - Open-Source Keycloak Identity and Access Management as a Service.
+
 [LoginRadius](https://www.loginradius.com) - Managed User Authentication service, super easy implementation, powerful User Management, rich analytics, user import, third party business apps integration, 24x7 Support, and many more. For developers FREE tier available. 
 
 [Digits](https://get.digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
