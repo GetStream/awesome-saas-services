@@ -43,6 +43,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [SerpApi](https://serpapi.com) - API to scrape and extract search engine results. Including advanced data structures like knoweledge graph, reviews, and maps. Works with Google, Baidu, and Bing.
 
+[Frolic](https://github.com/FrolicOrg/Frolic) Backend service to build customer facing dashboards 10x faster. Written in Rust.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
