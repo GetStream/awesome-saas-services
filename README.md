@@ -47,6 +47,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Frolic](https://github.com/FrolicOrg/Frolic) Backend service to build customer facing dashboards 10x faster. Written in Rust.
 
+[GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
