@@ -65,6 +65,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Datadog](https://datadoghq.com) - Real-time performance monitoring. See granular metrics from your entire stack, from application-level to your actual hosts and VMs.
 
+[Logit.io](https://logit.io) - Log, metrics and application performance management built upon hosted ELK, Grafana & Open Distro for Elasticsearch.
+
 [New Relic](https://newrelic.com/?) - Monitor and optimize your entire technology stack — from your infrastructure and applications to browser and mobile apps.
 
 [KeenIO](https://keen.io) - With Keen’s developer-friendly APIs, it’s easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
@@ -213,7 +215,7 @@ receive and track email effortlessly.
 
 ## Machine Learning
 
-[IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
+[IBM Watson](https://www.ibm.com/watson) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 
 [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 
