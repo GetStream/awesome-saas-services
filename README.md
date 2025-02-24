@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
