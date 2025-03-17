@@ -128,6 +128,8 @@ An end-to-end solution for all your image-related needs.
 
 [Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
 
+[SSOJet](https://ssojet.com) - Add enterprise SSO without rebuilding your auth
+
 ## Content Delivery Networks (CDNs)
 
 [Section.io](https://section.io) - Faster websites. More security and scalability. The features you look for in a Content Delivery Network, in one, easy-to-use tool built for agile teams.
