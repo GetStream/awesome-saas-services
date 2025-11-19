@@ -31,6 +31,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
 
+[ScraperCity](https://scrapercity.com) - Modern web scraping API with specialized pre-built scrapers for Apollo.io, Google Maps, and YouTube. Handles proxy rotation, JavaScript rendering, and CAPTCHA solving.
+
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
