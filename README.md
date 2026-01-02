@@ -219,6 +219,8 @@ receive and track email effortlessly.
 
 [Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
+[Vedika](https://vedika.io) - AI-powered Vedic astrology API with natural language queries. Ask questions like "When should I start my business?" and get intelligent astrological insights. 108+ endpoints, 22 languages, free sandbox for development.
+
 
 ## Customer Data Management
 
