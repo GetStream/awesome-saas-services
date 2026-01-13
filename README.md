@@ -100,6 +100,8 @@ An end-to-end solution for all your image-related needs.
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
+[HarisLab Connect](https://connect.harislab.tech/) – Centralized dashboard to create, send, and manage website forms, feedbacks, contact messages, newsletters, subscribers, and campaigns — all from one place.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
