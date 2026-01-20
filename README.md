@@ -222,6 +222,8 @@ receive and track email effortlessly.
 
 ## Customer Data Management
 
+[feedback.tools](https://feedback.tools) - AI-powered platform that captures, organizes, and prioritizes user feedback from all your channels, helping teams spot trends and make impactful product decisions.
+
 [Hull](https://www.hull.io/) - Powerful customer data platform to combine, cleanse, enrich, and sync any customer data across all your tools in real-time.
 
 ## Content Management Systems
