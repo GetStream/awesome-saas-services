@@ -169,6 +169,10 @@ receive and track email effortlessly.
 
 [Recruiterbox](http://recruiterbox.com/recruitment-software-demo/) - Recruiterbox is recruitment software that simplifies and optimizes your hiring process. Post job openings, manage candidates, collaborate with colleagues and use data to help you make an informed decision – all in one place.
 
+## Employee Recognition & Engagement
+
+[Brighten](https://hellobrighten.com) - AI-powered employee recognition and onboarding for small businesses. Features AI-generated recognition suggestions, peer-to-peer kudos, automated onboarding checklists, milestone tracking, and Slack/Teams integration.
+
 ## Mapping
 
 [Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
