@@ -159,6 +159,8 @@ receive and track email effortlessly.
 
 [Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
 
+[x402](https://github.com/xpaysh/awesome-x402) - Open protocol for pay-per-call API monetization using USDC over HTTP 402. Enables developers to charge per request without subscriptions, using stablecoin payments on Base and other EVM chains.
+
 ## Payroll
 
 [JustWorks](https://justworks.com) - Big or small, all teams deserve the best. JustWorks is leveling the playing field with seamless payroll, great and affordable benefits, and comprehensive compliance coverage, all in one cutting-edge product designed for you to work fearlessly.
