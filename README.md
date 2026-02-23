@@ -227,3 +227,8 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+
+## Miscellaneous
+
+- [IndieStack](https://indiestack.fly.dev/) - Directory of indie-built SaaS alternatives across 100+ categories.
