@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[API Status Check](https://apistatuscheck.com) - Real-time API status monitoring aggregator tracking 250+ services. Provides instant outage detection, historical uptime data, and status page aggregation for developers who depend on third-party APIs. Free to use.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
