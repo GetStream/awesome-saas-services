@@ -57,7 +57,7 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
-[Gatherly](https://gatherly.so) - E-signature and client intake platform for professional services. Automate document collection and client onboarding with secure links.
+[Gatherly](https://gatherly.shop) - E-signature and client intake platform for professional services. Automate document collection and client onboarding with secure links.
 
 ## Data, Analytics & Monitoring
 
