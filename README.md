@@ -227,3 +227,7 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+## Testing & Quality Assurance
+
+[Web Accessibility Checker](https://web-accessibility-checker.com/) - Automated web accessibility scanning tool that checks for WCAG compliance, evaluates page performance metrics (Core Web Vitals), and provides actionable accessibility reports with detailed remediation guidance.
