@@ -118,6 +118,8 @@ An end-to-end solution for all your image-related needs.
 
 [Form2Channel](https://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 
+[TG Multi-Service](https://tg.api.afonin-lisa.ru/) - SaaS REST API platform for managing multiple Telegram and Max messenger accounts. Supports webhooks, media handling, QR-code authorization, and multi-account management through a unified API.
+
 ## Authentication
 
 [Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
