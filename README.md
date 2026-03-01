@@ -49,6 +49,12 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[DocForge API](https://docforge-api.vercel.app) - Document format conversion API for developers. Convert Markdown to HTML, CSV to JSON, JSON to CSV, and YAML to JSON with a single API call. Free tier includes 500 requests per day.
+
+[ReportForge API](https://reportforge-api.vercel.app) - Report and chart generation API. Transform JSON or CSV data into formatted reports and visualizations using built-in templates. Free tier includes 5 requests per day.
+
+[FormForge API](https://formforge-api.vercel.app) - Dynamic form generation API that turns JSON schemas into ready-to-use HTML forms. Supports multiple themes and multi-step wizard forms. Free tier includes 20 requests per day.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
