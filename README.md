@@ -227,3 +227,12 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+
+## Changelog & Release Notes
+
+[Changelog.dev](https://changelog-dev-production.up.railway.app) - Hosted customer-facing changelog pages with AI-generated entries from your git commits. Free tier available.
+
+[Headway](https://headwayapp.co) - Hosted changelog pages and in-app notification widget for your product.
+
+[Beamer](https://www.getbeamer.com) - Hosted changelog and "What's New" notification center for SaaS products.
