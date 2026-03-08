@@ -227,3 +227,8 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+
+## Boilerplates & Starter Kits
+
+[DiggaByte Labs](https://diggabyte.com) - Production-ready SaaS boilerplate marketplace. Ship faster with battle-tested Next.js 14, Stripe, PostgreSQL, and Docker templates. Includes auth, payments, admin dashboard, API keys, 2FA, and rate limiting.
