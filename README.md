@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[BurnRate](https://getburnrate.io) - AI coding cost analytics tool that tracks usage and spend across 7 providers including Claude Code, Cursor, GitHub Copilot, Windsurf, Aider, Cline, and OpenAI Codex. Real-time dashboard with optimization rules to reduce AI coding costs.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
