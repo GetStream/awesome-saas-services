@@ -153,6 +153,10 @@ receive and track email effortlessly.
 
 [Amazon Elasticsearch (AWS)](https://aws.amazon.com/elasticsearch-service) - Fully managed, reliable, and scalable Elasticsearch service.
 
+## SEO & AI Search Visibility
+
+[GEOScore](https://geoscoreai.com) - Free AI search visibility scanner. Checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes a free AI Robots.txt Generator and AI Crawler Checker.
+
 ## Payment Processing
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
