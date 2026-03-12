@@ -88,7 +88,9 @@ An end-to-end solution for all your image-related needs.
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
-[Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+[HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox for email, Slack, and GitHub in one window. Privacy-first productivity tool with all data stored on-device.
+
+[Trello](https://trello.com/) - Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
 [Taskade](https://taskade.com/) - Taskade is a cross-platform collaboration tool for teams. Create team checklists, notes, and outlines, and chat together in real-time.
 
