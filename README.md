@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[Signbee](https://signb.ee) - Document signing API for AI agents and SaaS applications. Send contracts for e-signature via API with email OTP verification and SHA-256 signing certificates. Supports MCP integration for AI-powered workflows.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
