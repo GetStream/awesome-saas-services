@@ -226,4 +226,6 @@ receive and track email effortlessly.
 
 ## Content Management Systems
 
+[JustBlogged](https://justblogged.com) - No-setup blogging platform. Sign up, pick a name, start writing. Free forever, $9/mo Pro. Custom domains, beautiful themes, built-in SEO, lightning fast.
+
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
