@@ -147,6 +147,8 @@ receive and track email effortlessly.
 
 [Mandrill](https://mandrill.com) - Mandrill is a transactional email API for MailChimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.
 
+[Nudgen](https://nudgen.net) - AI-powered email retention platform for SaaS teams. Create personalized lifecycle and reactivation emails with brand-voice generation, smart audience targeting, auto-stop rules, preview/testing, and real-time campaign analytics.
+
 ## Search
 
 [Algolia](https://algolia.com) - A hosted Search API that delivers instant and relevant results from the first keystroke.
