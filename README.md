@@ -173,6 +173,8 @@ receive and track email effortlessly.
 
 [Mapbox](https://mapbox.com) - Make maps that move you. Whether you are visualizing millions of rows of data, tracking assets in real time, routing fleets around traffic, or making your app look beautiful, Mapbox is the platform that powers location and lets you build the experience in your app.
 
+[MapAtlas](https://mapatlas.eu) - EU-hosted mapping platform offering geocoding, routing, map tiles, search/autocomplete, directions, and route optimization APIs. GDPR-compliant with no tracking. Free tier includes 10k map loads, 10k geocodes, and 100k routes per month.
+
 ## Chat & Support
 
 [Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
