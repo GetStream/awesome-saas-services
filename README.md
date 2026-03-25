@@ -153,6 +153,8 @@ receive and track email effortlessly.
 
 [Amazon Elasticsearch (AWS)](https://aws.amazon.com/elasticsearch-service) - Fully managed, reliable, and scalable Elasticsearch service.
 
+[IndexFox](https://indexfox.ai) - AI-powered search widget for websites with automatic crawling, hybrid keyword + semantic search, and instant AI answers.
+
 ## Payment Processing
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
