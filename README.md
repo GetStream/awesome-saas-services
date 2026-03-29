@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[SocketsIO](https://socketsio.com) - Translation API supporting 195 languages with a Google Translate v2 compatible interface. Free tier includes 500K characters/month. SDKs available for Python and JavaScript.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
