@@ -49,6 +49,18 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[QRMint](https://qrmint.dev) - Free QR code generator API. Generate QR codes programmatically with a simple API call.
+
+[LinkShrink](https://linkshrink.dev) - Free URL shortener API. Shorten URLs and track clicks via a simple REST API.
+
+[PageShot](https://pageshot.dev) - Free screenshot API. Capture full-page or viewport screenshots of any URL on demand.
+
+[PDFSpark](https://pdfspark.dev) - Free PDF generation API. Generate PDFs from HTML or URLs with a single API call.
+
+[OGForge](https://ogforge.dev) - Free OG image generation API. Dynamically generate Open Graph images for social sharing.
+
+[FreeKit](https://freekit.dev) - Free developer toolkit. A collection of free APIs and utilities for developers.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
