@@ -227,3 +227,4 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+- [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Built-in marketplace, offline PWA, 10 languages.
