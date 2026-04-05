@@ -57,6 +57,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+[Overloop](https://agent.overloop.ai) - AI-powered outbound sales engine. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), enroll prospects, and manage conversations. Available as a CLI tool and API.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
@@ -72,6 +74,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 [Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
+
+[Signals](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, job changers, funding events, and keyword posters. JSON output for integration with sales and marketing workflows.
 
 ## Image Processing
 
