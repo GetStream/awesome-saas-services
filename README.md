@@ -49,6 +49,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+[Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
