@@ -31,7 +31,7 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
 
-[Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
+[Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users' bank accounts.
 
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
@@ -61,13 +61,13 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
 
-[Sentry](https://sentry.io) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
+[Sentry](https://sentry.io) - Sentry's real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 
 [Datadog](https://datadoghq.com) - Real-time performance monitoring. See granular metrics from your entire stack, from application-level to your actual hosts and VMs.
 
 [New Relic](https://newrelic.com/?) - Monitor and optimize your entire technology stack — from your infrastructure and applications to browser and mobile apps.
 
-[KeenIO](https://keen.io) - With Keen’s developer-friendly APIs, it’s easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
+[KeenIO](https://keen.io) - With Keen's developer-friendly APIs, it's easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
 
 [Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
@@ -75,7 +75,7 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Image Processing
 
-[ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
+[ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users' attention & increase sales.
 
 [Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
 An end-to-end solution for all your image-related needs.
@@ -88,7 +88,7 @@ An end-to-end solution for all your image-related needs.
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
-[Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+[Trello](https://trello.com/) - Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
 [Taskade](https://taskade.com/) - Taskade is a cross-platform collaboration tool for teams. Create team checklists, notes, and outlines, and chat together in real-time.
 
@@ -99,6 +99,8 @@ An end-to-end solution for all your image-related needs.
 [Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
+
+[Dioveo](https://dioveo.com) - Gmail attachment manager that finds, extracts, and organizes email attachments in bulk, with auto-upload to Google Drive, Dropbox, or OneDrive.
 
 ## SMS & Messaging
 
@@ -126,7 +128,7 @@ An end-to-end solution for all your image-related needs.
 
 [LoginRadius](https://www.loginradius.com) - Managed User Authentication service, super easy implementation, powerful User Management, rich analytics, user import, third party business apps integration, 24x7 Support, and many more. For developers FREE tier available. 
 
-[Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
+[Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don't ask people to create passwords they'll forget - delight them with a quick and easy login experience.
 
 ## Content Delivery Networks (CDNs)
 
@@ -140,7 +142,7 @@ An end-to-end solution for all your image-related needs.
 
 [SendGrid](https://sendgrid.com/) - Email delivery and transactional email service.
 
-[MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
+[MailChimp](https://mailchimp.com/) - World's leading email marketing platform, sending over a billion emails every day.
 
 [Mailgun](https://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
 receive and track email effortlessly.
@@ -175,7 +177,7 @@ receive and track email effortlessly.
 
 ## Chat & Support
 
-[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
+[Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
 
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
 
