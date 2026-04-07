@@ -4,6 +4,7 @@ This is a curated list of the best in class SaaS services for developers and bus
 
 As always, please feel free to make Pull Requests to add additional offerings that you feel may help the community.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SaaS service workflow orchestration, automated cloud platform management, and multi-agent coordination. MIT licensed.
 ## Our Favorites for 2020
 
 * [Stream](https://getstream.io) (Of course)
