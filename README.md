@@ -193,6 +193,8 @@ receive and track email effortlessly.
 
 [ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
+[BulkPublish](https://www.bulkpublish.com) - Social media publishing API for 11 platforms with scheduling, analytics, and AI agent support. Offers Python & Node.js SDKs and an MCP server for AI-native workflows.
+
 ## DNS
 
 [Amazon Web Services (AWS) Route 53](https://aws.amazon.com/route53/) - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications.
