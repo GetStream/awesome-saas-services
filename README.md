@@ -153,6 +153,8 @@ receive and track email effortlessly.
 
 [Amazon Elasticsearch (AWS)](https://aws.amazon.com/elasticsearch-service) - Fully managed, reliable, and scalable Elasticsearch service.
 
+[Not Human Search](https://nothumansearch.ai) - Search engine and API for discovering AI agent tools and MCP servers. Indexes 1,750+ AI-accessible tools with REST API and MCP endpoint for programmatic discovery.
+
 ## Payment Processing
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
@@ -168,6 +170,8 @@ receive and track email effortlessly.
 ## Recruiting
 
 [Recruiterbox](http://recruiterbox.com/recruitment-software-demo/) - Recruiterbox is recruitment software that simplifies and optimizes your hiring process. Post job openings, manage candidates, collaborate with colleagues and use data to help you make an informed decision – all in one place.
+
+[AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and ML engineering roles. Search 6,100+ positions across 321 companies with a public REST API for programmatic access to job data.
 
 ## Mapping
 
