@@ -219,6 +219,8 @@ receive and track email effortlessly.
 
 [Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
+[AI Dev Tools Directory](https://aidevtools-3qf.pages.dev) - Comparison of AI-powered developer tools with pricing, features, and alternatives.
+
 
 ## Customer Data Management
 
