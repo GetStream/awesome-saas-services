@@ -159,6 +159,8 @@ receive and track email effortlessly.
 
 [Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
 
+[MCP Billing Gateway](https://mcp-billing-gateway-production.up.railway.app) - Turnkey billing infrastructure for MCP server operators. Add Stripe subscriptions and x402 micropayments to any MCP tool — no billing code required.
+
 ## Payroll
 
 [JustWorks](https://justworks.com) - Big or small, all teams deserve the best. JustWorks is leveling the playing field with seamless payroll, great and affordable benefits, and comprehensive compliance coverage, all in one cutting-edge product designed for you to work fearlessly.
@@ -223,6 +225,8 @@ receive and track email effortlessly.
 ## Customer Data Management
 
 [Hull](https://www.hull.io/) - Powerful customer data platform to combine, cleanse, enrich, and sync any customer data across all your tools in real-time.
+
+[PersonaResearch](https://personaresearch.dev) - AI-powered customer persona synthesis from product reviews and user feedback. Aggregates signals from multiple sources into structured personas for product teams and indie founders.
 
 ## Content Management Systems
 
