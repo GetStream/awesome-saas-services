@@ -175,6 +175,8 @@ receive and track email effortlessly.
 
 ## Chat & Support
 
+[AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+
 [Stream Chat](https://getstream.io/chat/) – Build real-time chat in less time. Rapidly ship in-app messaging with our highly reliable chat infrastructure. Drive in-app conversion, engagement, and retention with the Stream Chat messaging platform API & SDKs.
 
 [Intercom](https://intercom.com) - Intercom makes customer messaging products for sales, marketing, and support teams, connected on one platform.
