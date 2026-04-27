@@ -211,6 +211,8 @@ receive and track email effortlessly.
 
 [Virushee](https://virushee.com/) - Privacy-oriented, file/data scanning service utilizing hybrid heuristic and AI-assisted engine.
 
+[IPASIS](https://ipasis.com/) - Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy detection, and email validation in a single call, returning an Interaction Trust Score (0-100). Sub-20ms response, free tier with 1,000 requests/day.
+
 ## Machine Learning
 
 [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
