@@ -82,6 +82,7 @@ An end-to-end solution for all your image-related needs.
 
 [ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
 
+[igly.ai](https://igly.ai) - Free AI image editing platform. Background removal, AI inpainting, image upscaling, and generative fill for e-commerce and content creation. [Demo Video](https://www.youtube.com/watch?v=HB2E1WZ12is)
 [Image-Charts](https://www.image-charts.com/) - Automagically create and send emails, reports, PDFs and more with on-brand charts as images using our API and integrations with Zapier and Make.
 
 ## Productivity & Organization
