@@ -51,6 +51,7 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Sales
 
+[Peddlum](https://peddlum.com) - SaaS for selling SaaS — marketplace with UGC creator recruitment and affiliate attribution baked in.
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
 
 [SalesforceIQ](https://www.salesforceiq.com/) - SalesforceIQ is an out-of-the-box sales app that gets your team up and running in minutes.
