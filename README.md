@@ -185,6 +185,8 @@ receive and track email effortlessly.
 
 [Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
 
+[DeskLeap](https://deskleap.io/) - Modern help desk platform for small-to-mid SaaS teams with ticket management, live chat, knowledge base, and email integration.
+
 ## Social Media
 
 [Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
