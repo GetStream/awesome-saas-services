@@ -57,6 +57,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+[FindMeMail](https://findmemail.io) - AI-powered B2B lead search using plain English ("Series A fintech in NY"). Returns SMTP-verified founder & decision-maker emails from a 32k+ company database. Free tier (50 credits) and $200 one-time lifetime — no subscription.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
