@@ -57,6 +57,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+[SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure built for B2B agencies. Lets agencies launch reseller offers under their own brand: multi-channel email + LinkedIn automation, unlimited sending inboxes, AI prospecting, and built-in deliverability. Used by 100+ agencies.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
