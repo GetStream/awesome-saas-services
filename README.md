@@ -96,6 +96,8 @@ An end-to-end solution for all your image-related needs.
 
 [Metatask](https://metatask.io/) - Metatask automates management of repeating business workflows, admin work, HR processes. A simple and flexible workflow management app.
 
+[ReceiptClaimer](https://receiptclaimer.com.au) - AI-powered tax deduction tracking and audit reconciliation platform for Australian sole traders and landlords. Automate expense tracking and maximize tax returns with OCR and AI categorization.
+
 [Calendarific](https://calendarific.com/) - Allows developers to fetch dates of holidays and observances in applications. The database covers over 200 countries worldwide
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
