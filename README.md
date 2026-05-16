@@ -193,6 +193,8 @@ receive and track email effortlessly.
 
 [ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
+[MarketiStats](https://marketistats.com) - All-in-one marketing analytics dashboard for SaaS founders. Tracks multi-platform social media analytics (Instagram, TikTok, YouTube, X, LinkedIn) alongside SEO audits, cold outreach, affiliate links, and paid ads attribution in one dashboard.
+
 ## DNS
 
 [Amazon Web Services (AWS) Route 53](https://aws.amazon.com/route53/) - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications.
