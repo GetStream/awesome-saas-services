@@ -57,6 +57,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+[Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence that detects buying signals from PostHog product-usage data and your CRM, scores accounts, and routes the warmest leads to your sales reps. Self-hostable.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
