@@ -185,6 +185,8 @@ receive and track email effortlessly.
 
 [Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
 
+[Atendente24h](https://atendente24h.com) - WhatsApp customer-service SaaS for Brazilian SMBs, powered by Anthropic Claude. Automated AI agent that handles inbound conversations 24/7, with handoff to human, scheduling, FAQ and order tracking. 7-day free trial without credit card.
+
 ## Social Media
 
 [Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
