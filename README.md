@@ -128,7 +128,7 @@ An end-to-end solution for all your image-related needs.
 
 [Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
 
-[Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Postgres database; built on Stack Auth.
+[Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Postgres database; built on Better Auth.
 
 ## Content Delivery Networks (CDNs)
 
