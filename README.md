@@ -128,6 +128,8 @@ An end-to-end solution for all your image-related needs.
 
 [Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
 
+[Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Postgres database; built on Better Auth.
+
 ## Content Delivery Networks (CDNs)
 
 [Section.io](https://section.io) - Faster websites. More security and scalability. The features you look for in a Content Delivery Network, in one, easy-to-use tool built for agile teams.
@@ -202,6 +204,8 @@ receive and track email effortlessly.
 ## Database Hosting
 
 [Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
+
+[Neon](https://neon.com/) - Serverless Postgres with autoscaling, scale-to-zero, and database branching; storage and compute are separated.
 
 ## Design
 
