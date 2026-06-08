@@ -100,6 +100,8 @@ An end-to-end solution for all your image-related needs.
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
+[Cloud Clipboard (cv.cm)](https://cv.cm/) - Free online clipboard to share text, images, audio, video, and files via ultra-short links — no signup required, with a developer API.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
