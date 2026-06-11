@@ -157,6 +157,8 @@ receive and track email effortlessly.
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
 
+[LLC Class](https://llcclass.com) - [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders who need a US entity to access Stripe; covers [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement.
+
 [Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
 
 ## Payroll
