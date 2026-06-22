@@ -227,3 +227,5 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+[UnfoldCMS](https://unfoldcms.com) - Self-hosted CMS built on Laravel 12, React 19, and Inertia 2. Includes a REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.
