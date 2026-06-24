@@ -57,6 +57,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+[Hermes](https://buildwithhermes.com) - The operating platform for AI voice agencies. Deploy white-label voice agents with built-in CRM, campaign orchestration, and transparent usage-based billing, replacing the 5-7 tools agencies normally stitch together. From $149/month.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
