@@ -100,6 +100,8 @@ An end-to-end solution for all your image-related needs.
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
+[FeedbackPulse](https://feedbackpulse.takeaseatventure.com/) - Feedback and roadmap boards for collecting feature requests, bug reports, and votes. Flat $19/mo for unlimited boards, posts, and members — no per-seat pricing. Free tier included.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
