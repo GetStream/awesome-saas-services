@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring for background jobs and services. Instrument any job with one curl ping (no agent or SDK); usage-based pricing, incident management, and status pages. Free for up to 50 monitors.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
