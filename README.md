@@ -185,6 +185,8 @@ receive and track email effortlessly.
 
 [Kommunicate](https://www.kommunicate.io/) - Live Chat, FAQs and Bots integration for Customer Support.
 
+[Knocket](https://trtc.io/solutions/knocket) - Free-forever contact layer for indie developers and small teams. Live chat widget for websites and mobile apps (iOS/Android/Flutter/React Native via WebView), a shareable contact page, and a unified Telegram/email inbox. No ads, no seat limits, no paid tier.
+
 ## Social Media
 
 [Buffer](https://buffer.com) - Buffer shares your content at the best possible times throughout the day so that your followers and fans see your updates more often. Get the most out of each post.
