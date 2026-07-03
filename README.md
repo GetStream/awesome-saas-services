@@ -71,6 +71,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
+[GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
+
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
 ## Image Processing
