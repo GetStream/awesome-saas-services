@@ -37,6 +37,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab](https://gitlab.com) - Tools for modern developers. GitLab unifies issues, code review, CI and CD into a single UI.
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 [Postman](https://getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
 [DeveloperHub.io](https://developerhub.io) - Managed service to create beautiful powerful developer hubs. Build your product and API documentation. Upload your OpenAPI spec to get entire auto-generated API references.
