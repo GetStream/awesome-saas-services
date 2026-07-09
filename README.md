@@ -69,6 +69,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [KeenIO](https://keen.io) - With Keen’s developer-friendly APIs, it’s easy to collect, explore, and visualize data anywhere. Apps and websites, customer-facing dashboards, IoT devices, you name it.
 
+[AnswerLens](https://app.sfdj.net) - Audits B2B SaaS pages for public evidence gaps and turns the findings into source-backed implementation plans.
+
 [Crashlytics](https://try.crashlytics.com) - A powerful and lightweight crash reporting system for your apps.
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
