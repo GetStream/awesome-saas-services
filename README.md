@@ -33,6 +33,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
+[open-banking.io](https://open-banking.io) - EU PSD2 Account Information Service API for European banks. Certificate-free tier (no eIDAS required), GDPR-compliant. Starts at ~€3/mo.
+
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
 [GitLab](https://gitlab.com) - Tools for modern developers. GitLab unifies issues, code review, CI and CD into a single UI.
