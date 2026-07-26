@@ -57,6 +57,9 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [RealtimeCRM](https://realtimecrm.co.uk/) - RealtimeCRM lets you manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
+
+[Crawlbench](https://crawlbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=getstream-awesome-saas-services&utm_content=pr) - Facebook Marketplace monitoring for flippers, dealers, and sourcing teams. Set filters once, get email and Telegram alerts when listings match.
+
 ## Data, Analytics & Monitoring
 
 [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
