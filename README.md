@@ -167,7 +167,7 @@ receive and track email effortlessly.
 
 ## Recruiting
 
-[Recruiterbox](http://recruiterbox.com/recruitment-software-demo/) - Recruiterbox is recruitment software that simplifies and optimizes your hiring process. Post job openings, manage candidates, collaborate with colleagues and use data to help you make an informed decision – all in one place.
+[Trakstar Hire](https://hire.trakstar.com/live-demo) - Applicant tracking and recruiting software for posting jobs, managing candidates, and collaborating on hiring decisions.
 
 ## Mapping
 
@@ -192,6 +192,8 @@ receive and track email effortlessly.
 [Crowdfire](https://crowdfireapp.com) - Crowdfire provides a dashboard for users to manage their Twitter, Linkedin and Instagram accounts on the fly.
 
 [ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
+
+[Xquik](https://xquik.com) - Closed-source X data and automation platform with REST, webhook, and MCP access. Not affiliated with X Corp.
 
 ## DNS
 
