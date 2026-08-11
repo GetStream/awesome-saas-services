@@ -47,6 +47,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Frolic](https://github.com/FrolicOrg/Frolic) Backend service to build customer facing dashboards 10x faster. Written in Rust.
 
+[Keymint](https://keymint.dev) - API-first software licensing for developers. Hardware node-locking, offline license files, floating seats, and Stripe subscription integration.
+
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
 ## Sales
