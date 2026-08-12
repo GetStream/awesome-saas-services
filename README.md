@@ -51,6 +51,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Sales
 
+[Funding Signals](https://fundingsignals.net/?utm_source=github&utm_medium=readme&utm_campaign=awesome-saas-services) - API that scores and surfaces SEC Form D funding filings within hours of filing, so sales teams can reach out to newly-funded companies before competitors do. Free tier available.
+
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
 
 [SalesforceIQ](https://www.salesforceiq.com/) - SalesforceIQ is an out-of-the-box sales app that gets your team up and running in minutes.
