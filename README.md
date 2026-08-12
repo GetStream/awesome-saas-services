@@ -147,6 +147,8 @@ receive and track email effortlessly.
 
 [Mandrill](https://mandrill.com) - Mandrill is a transactional email API for MailChimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.
 
+[Mailtrap](https://mailtrap.io/) - Email API and SMTP service for sending transactional and bulk emails, with a generous free tier for developers.
+
 ## Search
 
 [Algolia](https://algolia.com) - A hosted Search API that delivers instant and relevant results from the first keystroke.
