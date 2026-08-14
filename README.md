@@ -21,6 +21,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
 
+[Mydentify Public API](https://mydentify.com/developers) - Free read-only HTTPS API for intent-based software discovery; public directory and category endpoints require no API key.
+
 [Dataflow kit](https://dataflowkit.com) - Turn websites into structured data with a simple point-and-click toolkit. Dataflow Kit is Web scraping open source framework written in Go. DFK platform provides easy and comfortable way to extract data from web pages.
 
 [Crawlbase](https://crawlbase.com) - Bypass captchas and blocks, and crawl javascript pages with a simple to use API service.
