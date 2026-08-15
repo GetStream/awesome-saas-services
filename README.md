@@ -140,6 +140,8 @@ An end-to-end solution for all your image-related needs.
 
 [SendGrid](https://sendgrid.com/) - Email delivery and transactional email service.
 
+[Reloop](https://reloop.sh/): Transactional email and SMTP, rebuilt for developers building in the age of AI.
+
 [MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
 [Mailgun](https://www.mailgun.com/) - The email service for developers. Powerful APIs that enable you to send,
