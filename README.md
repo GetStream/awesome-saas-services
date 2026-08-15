@@ -116,7 +116,7 @@ An end-to-end solution for all your image-related needs.
 
 [Applozic](https://www.applozic.com/) - Chat API & In-App Messaging SDK for Mobile & Web Apps. Innovate fast, save development cost and delight users with a scalable, secure and customizable Chat.
 
-[Form2Channel](https://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
+[Form2Channel](https://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, , Slack, Telegram or Http. No coding necessary.
 
 ## Authentication
 
@@ -139,6 +139,8 @@ An end-to-end solution for all your image-related needs.
 ## Outgoing Email Services
 
 [SendGrid](https://sendgrid.com/) - Email delivery and transactional email service.
+
+[Reloop](https://reloop.sh/): Transactional email and SMTP, rebuilt for developers building in the age of AI.
 
 [MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
