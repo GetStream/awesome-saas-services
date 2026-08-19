@@ -118,6 +118,8 @@ An end-to-end solution for all your image-related needs.
 
 [Form2Channel](https://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 
+[CODASMS](https://codasms.com) - Programmable phone-verification infrastructure. Receive one-time SMS/OTP codes across 700+ services and 180+ countries via a clean API or rebrandable white-label storefronts — pay only on delivery.
+
 ## Authentication
 
 [Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
