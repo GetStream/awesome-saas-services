@@ -159,6 +159,8 @@ receive and track email effortlessly.
 
 [Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
 
+[RefundRadar](https://guerindylan555-boop.github.io/refundradar/) - Free tool that helps Stripe merchants win chargebacks: paste your dispute details and get a ready-to-submit counter_evidence packet with a plain-English rebuttal letter and an evidence checklist tailored to the reason code.
+
 ## Payroll
 
 [JustWorks](https://justworks.com) - Big or small, all teams deserve the best. JustWorks is leveling the playing field with seamless payroll, great and affordable benefits, and comprehensive compliance coverage, all in one cutting-edge product designed for you to work fearlessly.
