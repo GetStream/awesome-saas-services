@@ -199,6 +199,8 @@ receive and track email effortlessly.
 
 [Cloudflare](https://cloudflare.com) - Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet. Our Anycast technology enables our benefits to scale with every server we add to our growing footprint of data centers.
 
+[Vacato](https://vacato.io) - RDAP domain availability watchlist with Telegram/email alerts when a taken name opens. Free: 10 domains. Alerts only - not a drop-catcher.
+
 ## Database Hosting
 
 [Compose](https://compose.com) - Backups, replication, and complete monitoring. Three essentials of a production database deployment. Spend your time building apps, and let Compose worry about production database operations.
