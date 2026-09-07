@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[Vacato](https://vacato.io) - RDAP domain availability watchlist. Free 10 domains, email/Telegram alerts when a name opens — not a drop-catcher.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your usersâ€™ attention & increase sales.
