@@ -193,6 +193,8 @@ receive and track email effortlessly.
 
 [ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
+[Social media studio](https://so-me.studio) - Social media management for scheduling and publishing posts across connected accounts, with AI caption writing, a unified inbox, analytics, and API and MCP integrations.
+
 ## DNS
 
 [Amazon Web Services (AWS) Route 53](https://aws.amazon.com/route53/) - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications.
