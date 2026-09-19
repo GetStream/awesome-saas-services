@@ -207,6 +207,8 @@ receive and track email effortlessly.
 
 [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
 
+[Stripo](https://stripo.email) - Email design platform with 1,690+ templates and export to 90+ ESPs.
+
 ## Security
 
 [Virushee](https://virushee.com/) - Privacy-oriented, file/data scanning service utilizing hybrid heuristic and AI-assisted engine.
