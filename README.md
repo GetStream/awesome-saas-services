@@ -86,6 +86,8 @@ An end-to-end solution for all your image-related needs.
 
 ## Productivity & Organization
 
+[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser freelancer tools: invoice, NDA outline, SOW, timesheet, and more (MIT, no signup).
+
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
 [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
