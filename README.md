@@ -100,6 +100,8 @@ An end-to-end solution for all your image-related needs.
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
+[cv.cm](https://cv.cm/) - No-login clipboard (expires after 10 views or 24 hours) plus in-browser PDF, image, and QR tools. Files stay on the device.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
