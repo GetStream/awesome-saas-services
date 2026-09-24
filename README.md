@@ -100,6 +100,8 @@ An end-to-end solution for all your image-related needs.
 
 [Tefter](https://tefter.io) - Tefter is a bookmarking app for individuals and teams. There is a Slack integration to collaborate with your team. Tefter is free for open source teams.
 
+[Vellum](https://vellum-pai0psnhd-next-gen-ai1.vercel.app) - Studio OS for independents: clients, proposals, invoices and time tracking in one app, with one-time pricing instead of a subscription.
+
 ## SMS & Messaging
 
 [Twilio](https://twilio.com/) - Build apps that communicate with everyone in the world. Voice & Video, Messaging, and Authentication APIs for every application.
