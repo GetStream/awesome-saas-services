@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[Leakly](https://leakly.ai/) - AI-powered conversion audits that inspect desktop and mobile visitor journeys and provide evidence-backed findings with prioritized fixes. Free URL-based audit available.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
