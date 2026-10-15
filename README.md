@@ -157,6 +157,8 @@ receive and track email effortlessly.
 
 [Stripe](https://stripe.com) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world.
 
+[AgentaOS](https://agentaos.ai) - Merchant of record for SaaS, freelancers and agencies: take card and subscription payments from 190+ countries with sales tax, VAT, invoices and chargebacks handled, no company needed.
+
 [Bill](https://bill.com) - Get paid 2x-3x faster with ACH and credit cards. Magically simple business payments that work with your accounting software.
 
 ## Payroll
