@@ -73,11 +73,15 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[WatchCron](https://watchcron.com) - Cron job monitoring service. Alerts when scheduled tasks fail, run late, or stop running. Free tier available.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
 
 [Cloudinary](https://cloudinary.com) - Cloudinary is the image back-end for web and mobile developers.
+
+[ScreenshotRun](https://screenshotrun.com) - Screenshot API for developers. Capture any webpage as PNG, JPEG, WebP, or PDF via REST API.
 An end-to-end solution for all your image-related needs.
 
 [ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
