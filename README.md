@@ -84,6 +84,8 @@ An end-to-end solution for all your image-related needs.
 
 [Image-Charts](https://www.image-charts.com/) - Automagically create and send emails, reports, PDFs and more with on-brand charts as images using our API and integrations with Zapier and Make.
 
+[Photoshoot](https://photoshoot.app) - AI commercial photography: turn product and fashion reference photos into studio-grade product shots and model imagery for e-commerce.
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
