@@ -84,6 +84,8 @@ An end-to-end solution for all your image-related needs.
 
 [Image-Charts](https://www.image-charts.com/) - Automagically create and send emails, reports, PDFs and more with on-brand charts as images using our API and integrations with Zapier and Make.
 
+[CurlShot](https://curlshot.com) - Screenshot API that turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video with one HTTP request. Free plan includes 100 screenshots per month.
+
 ## Productivity & Organization
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
