@@ -51,6 +51,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 ## Sales
 
+[DocAsker](https://docasker.com) - AI-verified client document collection and onboarding portal that validates uploaded PDFs and IDs in real time and automates WhatsApp, SMS, and Email follow-ups.
+
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
 
 [SalesforceIQ](https://www.salesforceiq.com/) - SalesforceIQ is an out-of-the-box sales app that gets your team up and running in minutes.
