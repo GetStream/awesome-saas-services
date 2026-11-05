@@ -227,3 +227,5 @@ receive and track email effortlessly.
 ## Content Management Systems
 
 [Tipe](https://tipe.io) - Next generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
+[Descriptra](https://descriptra.com) - AI product description generator and GEO/SEO catalog optimization platform for e-commerce teams in 22 languages.
