@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[North Metric](https://www.northmetric.io) - Churn prevention for SaaS on Stripe. See which customers are likely to cancel, ranked by revenue at risk.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
