@@ -33,6 +33,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Plaid](https://plaid.com) - Develop the future of financial services. Plaid enables applications to connect with users’ bank accounts.
 
+[No Stairs Please](https://nostairsplease.com/) - Live-music venue and booking contact directory covering 1,700+ independent stages across all 50 US states, DC, and BC, with a public [MCP server](https://nostairsplease.com/mcp).
+
 [GitHub](https://github.com) - How people build software. Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.
 
 [GitLab](https://gitlab.com) - Tools for modern developers. GitLab unifies issues, code review, CI and CD into a single UI.
