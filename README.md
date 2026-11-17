@@ -86,8 +86,7 @@ An end-to-end solution for all your image-related needs.
 
 ## Productivity & Organization
 
-- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects.
-* [HumanPen](https://humanpen.net/) - Document-level academic & research writing SaaS: Humanize (DOCX/PPTX/TXT), Translate (12 languages across PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and scoped Research Projects (100 signup credits; credit-based pricing).
+[HumanPen](https://humanpen.net/) - Document-level academic & research writing SaaS: Humanize (DOCX/PPTX/TXT), Translate (12 languages across PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and scoped Research Projects (100 signup credits; credit-based pricing).
 
 [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
