@@ -83,6 +83,7 @@ An end-to-end solution for all your image-related needs.
 [ExtractTable.com](https://extracttable.com) - API service to extract tabular data from images and PDFs. [Free Demo Here](https://extracttable.com/demo.html)
 
 [Image-Charts](https://www.image-charts.com/) - Automagically create and send emails, reports, PDFs and more with on-brand charts as images using our API and integrations with Zapier and Make.
+* [CreoArt](https://creoart.app/) - Pay-as-you-go private AI image & video studio uniting 45 models under never-expiring credits, plus background removal, upscaling, and a free browser-local WebGPU PSD editor.
 
 ## Productivity & Organization
 
