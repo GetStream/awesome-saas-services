@@ -73,6 +73,8 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
+[LaunchPulse](https://pulse.statementflow.win) - Post-launch SaaS distribution pacer across 100+ verified directories, automated HTTP 200 backlink monitoring, /llms.txt AEO audit, and edge revenue attribution.
+
 ## Image Processing
 
 [ImgIX](https://imgix.com/) - ImgIX optimizes and delivers images fast to grab your users’ attention & increase sales.
